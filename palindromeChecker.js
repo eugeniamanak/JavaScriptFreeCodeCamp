@@ -1,5 +1,4 @@
-//this solution performs at minimum 7x better, at maximum infinitely better.
-//read the explanation for the reason why.
+
 function palindrome(str) {
   //assign a front and a back pointer
   let front = 0;
